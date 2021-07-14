@@ -1,0 +1,8 @@
+// 1. Install
+minikube kubectl -- create -f https://raw.githubusercontent.com/aquasecurity/kube-hunter/main/job.yaml
+
+// 2. Test
+minikube kubectl -- get all
+
+// 3. Results. Change "pod_kubehunter_name"
+minikube kubectl -- logs "pod_kubehunter_name"
