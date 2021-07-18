@@ -5,4 +5,3 @@
 3. Trivy (Vulnerability Scanner for Containers)
 4. Tracee (Container and system tracing using eBPF)
 5. Starboard (Kubernetes-native security tool kit)
-6. Cloudspoit (Cloud Security Scans)
