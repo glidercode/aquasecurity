@@ -1,0 +1,6 @@
+// Pull docker image
+docker pull aquasec/trivy:latest
+
+// Run image test
+docker run --rm -v /var/run/docker.sock:/var/run/docker.sock \
+    -v $HOME/Library/Caches:/root/.cache/ aquasec/trivy:0.19.1 python:3.4-alpine
