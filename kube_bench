@@ -1,8 +1,0 @@
-//Install in minikube cluster
-minikube kubectl -- apply -f https://raw.githubusercontent.com/aquasecurity/kube-bench/main/job.yaml
-
-//Scan cluster
-minikube kubectl -- get all
-
-//See results
-minikube kubectl -- logs "pod_kubebench_name"
