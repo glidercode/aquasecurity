@@ -1,5 +1,3 @@
-Before begin, see https://github.com/glidercode/aquasecurity/wiki
-
 1. Install in minikube cluster:
 ``` minikube kubectl -- create -f https://raw.githubusercontent.com/aquasecurity/kube-hunter/main/job.yaml ```
 
