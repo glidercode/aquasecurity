@@ -1,4 +1,4 @@
-# Aqua Security Open Source Lab
+# Aqua Security Open Source Tools
 
 ## Requirements
 
