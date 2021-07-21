@@ -1,4 +1,4 @@
-Before begin, see https://github.com/glidercode/aquasecurity/wiki
+# Trivy
 
 1. Pull docker image:
 ``` docker pull aquasec/trivy:latest ``` 
