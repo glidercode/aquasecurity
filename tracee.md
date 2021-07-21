@@ -1,4 +1,4 @@
-Before begin, see https://github.com/glidercode/aquasecurity/wiki
+# Tracee
 
 1. Pull docker image:
 ``` docker pull aquasec/tracee:latest ``` 
