@@ -1,4 +1,4 @@
-Before begin, see https://github.com/glidercode/aquasecurity/wiki
+# Kube Bench
   
 1. Install in minikube cluster:
 ``` minikube kubectl -- apply -f https://raw.githubusercontent.com/aquasecurity/kube-bench/main/job.yaml ``` 
