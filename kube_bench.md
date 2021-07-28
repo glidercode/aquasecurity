@@ -8,8 +8,8 @@
 
 ``` kubectl get all ``` 
 
-3. See results.
+3. See results:
 
 ``` kubectl logs [pod_kubebench_name] ```
 
-Replace `[pod_kubebench_name]` with the value of your cluster:
+> Replace `[pod_kubebench_name]` with the value of your cluster.
