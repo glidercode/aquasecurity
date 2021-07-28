@@ -3,7 +3,9 @@
 ## Requirements
 
 - Docker - [doc](https://docs.docker.com/get-started/)
-- Minikube cluster - [doc](https://minikube.sigs.k8s.io/docs/start/)
+- Minikube or another kubernetes cluster - [doc](https://minikube.sigs.k8s.io/docs/start/)
+- Kubectl - [doc](https://kubernetes.io/es/docs/tasks/tools/install-kubectl/)
+- Krew - [doc](https://krew.sigs.k8s.io/)
 
 ## Tools
 
