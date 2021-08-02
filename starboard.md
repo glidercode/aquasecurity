@@ -2,7 +2,7 @@
 
 1.Install starboard plugin with krew:
 
-``` kkubectl krew install starboard ```
+``` kubectl krew install starboard ```
 
 More information about commands:
 
