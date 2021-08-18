@@ -12,4 +12,4 @@
 
 ``` kubectl logs [pod_kubebench_name] ```
 
-> Replace `[pod_kubebench_name]` with the value of your cluster.
+Replace `[pod_kubebench_name]` with the value of your cluster.
