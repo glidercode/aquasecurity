@@ -16,5 +16,5 @@
 3. Trivy (Vulnerability Scanner for Containers) - [demo](https://github.com/glidercode/aquasecurity/blob/main/trivy.md) - [doc](https://github.com/aquasecurity/trivy)
 4. Tracee (Container and system tracing using eBPF) - [demo](https://github.com/glidercode/aquasecurity/blob/main/tracee.md) - [doc](https://github.com/aquasecurity/tracee)
 5. Starboard (Kubernetes-native security tool kit) - [demo](https://github.com/glidercode/aquasecurity/blob/main/starboard.md) - [doc](https://github.com/aquasecurity/starboard)
-6. Tfsec (Infrastructure as Code Security) - [doc](https://github.com/aquasecurity/tfsec)
+6. Tfsec (Infrastructure as Code Security) - [demo](https://github.com/glidercode/aquasecurity/blob/main/tfsec.md) - [doc](https://github.com/aquasecurity/tfsec)
 7. Cloudsploit (Cloud IaaS Security Checks) - [doc](https://github.com/aquasecurity/cloudsploit)
